@@ -10,6 +10,6 @@ Open the client and server side each in a different window
 #### Run the the server side:
 *	go to the com.hit.mby.server and run CacheUnitDriver.
 * typing start in the command line.
-#### Run the the client side:
+#### Run the client side:
 * go to the com.hit.mby.driver and run CacheUnitClientDriver
 * now you can send requests using the GUI.
